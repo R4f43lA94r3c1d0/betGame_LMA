@@ -1,0 +1,9 @@
+*************************************************************
+*	                      REGRAS	                        *
+*************************************************************
+*                                                           *
+* O jogador deverá arremessar n dados simultaneamente       *
+* numa mesa. Se o resultado da soma dos valores das faces   *
+* visíveis dos dados derem 7 ou 11, o jogador vence.        *
+*                                                           *
+*************************************************************
